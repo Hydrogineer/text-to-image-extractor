@@ -2,6 +2,13 @@
 With this python you can take text to image
 
 
+![imagen](https://github.com/user-attachments/assets/1a60b313-2ed0-4636-a599-070847f16180)
+
+
+
+
+
+
 
 Para instalar Tesseract OCR, debes seguir los pasos específicos para tu sistema operativo. Aquí te doy instrucciones para los sistemas operativos más comunes: Windows, macOS y Linux.
 Windows
